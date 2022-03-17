@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francisGolden
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and technology all around
 - 🌱 I’m currently learning HTML, CSS, JS
 - 🎯 I'm going to learn React and Node by the end of this year (2022)
 
