@@ -2,8 +2,8 @@
 <h3 align="left">A passionate frontend developer from Italy</h3>
 
 <ul align="left">
-  <li> 🔭 I’m currently working on **The Odin Project curriculum**</li>
-  <li> 🌱 I’m currently learning **React**</li>
+  <li> 🔭 I’m currently working on The Odin Project curriculum</li>
+  <li> 🌱 I’m currently learning React</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
