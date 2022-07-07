@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Italy</h3>
 
 <ul align="left">
-  <li> 🔭 I’m currently working through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> curriculum</li>
+  <li> 🔭 I’m currently working through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a></li>
   <li> 🌱 I’m currently learning React</li>
 </ul>
 
