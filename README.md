@@ -1,5 +1,5 @@
 <h1 align="left">Ciao 👋</h1>
-<h3 align="left">I'm Francesco, a dude</h3>
+<h3 align="left">I'm Francesco, a guy who's</h3>
 <ul align="left">
   <li> 🔭 working through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a></li>
   <li> 🌱 learning React</li>
