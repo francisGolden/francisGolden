@@ -2,7 +2,6 @@
 <h3 align="left">I'm Francesco, a guy who's</h3>
 <ul align="left">
   <li> 🔭 working through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a></li>
-  <li> 🌱 learning Ruby</li>
 </ul>
 
 <a href="http://portfolio-ivory-sigma.vercel.app/">Portfolio</a>
