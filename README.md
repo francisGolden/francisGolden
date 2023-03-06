@@ -5,8 +5,6 @@
   <li> 🔭 learning through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> and more</li>
 </ul>
 
-<a href="http://portfolio-ivory-sigma.vercel.app/">Portfolio</a>
-
 <p align="left">
 </p>
 
