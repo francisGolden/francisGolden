@@ -1,7 +1,7 @@
 <h1 align="left">Ciao 👋</h1>
 <h3 align="left">I'm Francesco, a guy who's</h3>
 <ul align="left">
-  <li> 🔭 learning through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a></li>
+  <li> 🔭 learning through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> and more</li>
   <li> 💪 working at ShopFully as a Frontend Developer</li>
 </ul>
 
