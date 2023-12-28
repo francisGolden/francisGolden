@@ -1,7 +1,6 @@
 Ciao 👋 <br><br>
 I'm <b>Francesco</b>, a guy who's
 <ul align="left">
-  <li> 💪 working at ShopFully as a Frontend Developer</li>
   <li> 🔭 learning through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> and more</li>
 </ul>
 
