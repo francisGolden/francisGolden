@@ -1,5 +1,5 @@
 Ciao 👋 <br><br>
-I'm <b>Francesco</b>, a frontend developer with 1 year of experience working on large scale front facing websites/web apps and 2 years of experience on personal projects and POCs.
+I'm <b>Francesco</b>, a frontend developer with 1 year of experience working on large scale front facing web-sites/apps and 2 years of experience on personal projects and POCs.
 
 Languages and tools I'm working with:
 
