@@ -1,11 +1,5 @@
 Ciao 👋 <br><br>
-I'm <b>Francesco</b>, a guy who's
-<ul align="left">
-  <li> 🔭 learning through <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> and more</li>
-</ul>
-
-<p align="left">
-</p>
+I'm <b>Francesco</b>, a frontend developer with 1 year of experience working on large scale front facing websites/web apps and 2 years of experience on personal projects and POCs.
 
 Languages and tools I'm working with:
 
