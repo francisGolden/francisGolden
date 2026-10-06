@@ -1,7 +1,7 @@
 Ciao 👋 <br><br>
 I'm <b>Francesco</b>, a web developer with 1 year of experience working on large scale front facing web-sites/apps and 2 years of experience on personal projects and POCs.
 
-Creator of Tamarix, a digital wellbeing open source project.
+Creator of Tamarix, a digital wellbeing project.
 
 Languages and tools I'm working with:
 
